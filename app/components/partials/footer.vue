@@ -1,18 +1,13 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      <a href="https://github.com/Gomah/bluise">
-        <svg
-          baseProfile="tiny"
-          height="32px"
-          fill="white"
-          version="1.1"
-          viewBox="0 0 24 24"
-          width="24px"
-          xml:space="preserve"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-        >
+      <a href="/">
+        
+        <img
+          alt="Hero"
+          class="header__logo"
+          src="/images/uploads/logo.svg"
+        />
           <g>
             <g>
               <g>
