@@ -2,8 +2,8 @@
   "title": "Inicial",
   "titleTemplate": "Peça sua instalação",
   "welcomeText": "Deseja pedir uma instalação nova de gás no seu endereço? Preencha o seu email de contato abaixo e um de nossos especialistas entrará em contato com você em breve.",
-  "logo": "/images/uploads/logo_gas.png",
-  "icon": "/images/uploads/logo_gas.png",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "Nova instalação de gás",
   "seoMetaImage": ""
